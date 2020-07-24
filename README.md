@@ -1,9 +1,9 @@
-#### 📘 Latest blog posts
+### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Using SharedPreferences in Flutter effortlessly](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
 <!-- BLOG-POST-LIST:END -->
 
-#### 💻 Coding stats
+### 💻 Coding stats
 <img align="right" height="195" width="195" src="https://pic.funnygifsbox.com/uploads/2015/06/5kiur.gif" >
 
 ![Simon's GitHub Stats](https://github-readme-stats-blue.vercel.app/api?username=simonpham)
