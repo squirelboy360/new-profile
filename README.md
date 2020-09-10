@@ -11,7 +11,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif" >
 
-![Simon's GitHub Stats](https://github-readme-stats-blue.vercel.app/api?username=simonpham)
+![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham)
 
 <img align="right" src="https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/4kiur.gif" >
 
