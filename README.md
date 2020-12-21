@@ -1,8 +1,8 @@
 ### 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SharedPreferences in Flutter effortlessly](http://blog.simonit.dev/2020/07/15/Using-SharedPreferences-in-Flutter-effortlessly/)
-- [My journey to become a programmer](http://blog.simonit.dev/2018/07/14/My-journey-to-become-a-programmer/)
+- [Using SharedPreferences in Flutter effortlessly](http://blog.codingteemo.me/2020/07/15/Using-SharedPreferences-in-Flutter-effortlessly/)
+- [My journey to become a programmer](http://blog.codingteemo.me/2018/07/14/My-journey-to-become-a-programmer/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Coding stats
