@@ -16,25 +16,13 @@
 <img align="right" src="https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/4kiur.gif" >
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 110 Contributions in the Year 2021
- > 
-> 📦 401.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 49 Public Repositories 
- > 
-> 🔑 34 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    144 commits    ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   25.91% 
 🌆 Daytime    158 commits    ███████░░░░░░░░░░░░░░░░░░   28.62% 
 🌃 Evening    127 commits    █████░░░░░░░░░░░░░░░░░░░░   23.01% 
-🌙 Night      123 commits    █████░░░░░░░░░░░░░░░░░░░░   22.28%
+🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░░░   22.46%
 
 ```
 
