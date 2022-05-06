@@ -16,8 +16,6 @@
 <img align="right" src="https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/4kiur.gif" >
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C829%20hrs%2015%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -42,5 +40,5 @@ Text                     48 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/05/2022 04:34:08 UTC
+ Last Updated on 06/05/2022 00:52:02 UTC
 <!--END_SECTION:waka-->
