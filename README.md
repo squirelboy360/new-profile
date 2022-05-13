@@ -16,7 +16,7 @@
 <img align="right" src="https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/4kiur.gif" >
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
