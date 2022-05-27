@@ -27,11 +27,10 @@
 |**JSON**|**2 hrs 25 mins**|`▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   2.48%`|
 
 
+<!--END_SECTION:waka-->
 
 ### 💻 Coding stats
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
-
-<!--END_SECTION:waka-->
-![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/20kiur.gif)![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/9kiur.gif) ![](https://github.com/simonpham/simonpham/raw/master/assets/images/bug.gif) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/8kiur.gif)![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/12kiur.gif)
+![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/20kiur.gif) ![](https://github.com/simonpham/simonpham/raw/master/assets/images/bug.gif) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/9kiur.gif)
