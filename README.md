@@ -1,7 +1,19 @@
+
+  
+## WELCOME TO MY PROFILE 😊
+
 ### 💻 Coding stats
+
+<div align="center">
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
+
+</div>
+
+
+___
+  
 ### 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -33,4 +45,11 @@
 
 <!--END_SECTION:waka-->
 
+___
+
+
+<div align="center">
+
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/20kiur.gif) ![](https://github.com/simonpham/simonpham/raw/master/assets/images/bug.gif) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/9kiur.gif)
+
+</div>
