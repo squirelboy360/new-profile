@@ -1,8 +1,8 @@
 ### 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Using SharedPreferences in Flutter effortlessly](http://blog.codingteemo.me/2020/07/15/Using-SharedPreferences-in-Flutter-effortlessly/)
-- [My journey to become a programmer](http://blog.codingteemo.me/2018/07/14/My-journey-to-become-a-programmer/)
+- [How to fix Ubuntu NVIDIA driver is not loaded](https://dev.to/simonpham/how-to-fix-ubuntu-nvidia-driver-is-not-loaded-2ipp)
+- [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 Coding stats
