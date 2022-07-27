@@ -8,8 +8,8 @@
 ### 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to fix Ubuntu NVIDIA driver is not loaded](https://dev.to/simonpham/how-to-fix-ubuntu-nvidia-driver-is-not-loaded-2ipp)
-- [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
+- [Use SharedPreferences in Flutter effortlessly](https://simondev.medium.com/use-sharedpreferences-in-flutter-effortlessly-835bba8f7418?source=rss-211d7b4ab874------2)
+- [My journey to become a programmer](https://simondev.medium.com/my-journey-to-become-a-programmer-107bc14fd8e8?source=rss-211d7b4ab874------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
