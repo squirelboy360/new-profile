@@ -4,6 +4,10 @@
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/5kiur.gif) ![Simon's GitHub Stats](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=simonpham) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/6kiur.gif)
 
+### 📱 See my apps on
+
+- [App Store](https://apps.apple.com/ge/developer/cuong-pham/id1633011944)
+- [Play Store](https://play.google.com/store/apps/dev?id=8748015601074315583)
 
 ### 📘 Latest blog posts
 
