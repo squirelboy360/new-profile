@@ -44,6 +44,7 @@
 
 <!--END_SECTION:waka-->
 
+```
 ⬜⬜⬜⬜⬜⬜⬜🟦🟦⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜🟦🟦⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜🟦🟦⬜⬜⬜⬜⬜⬜⬜
@@ -65,6 +66,7 @@
 ⬜⬜⬜⬜⬛🏽🏽🏽🏽🟫🟫⬛⬜⬜⬜⬜
 ⬜⬜⬜⬜⬛🟩🟩⬛⬛🟩🟩⬛⬜⬜⬜⬜
 ⬜⬜⬜⬜⬛⬛⬛⬜⬜⬛⬛⬛⬜⬜⬜⬜
+```
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/20kiur.gif) ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/9kiur.gif)
 
