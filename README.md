@@ -12,7 +12,7 @@
 ### 📘 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Store key-value data in Flutter using hive - but easier.](https://dev.to/simonpham/store-key-value-data-in-flutter-using-hive-but-easier-4n0n)
+- [Store key-value data in Flutter using hive - but easier](https://dev.to/simonpham/store-key-value-data-in-flutter-using-hive-but-easier-4n0n)
 - [How to fix Ubuntu NVIDIA driver is not loaded](https://dev.to/simonpham/how-to-fix-ubuntu-nvidia-driver-is-not-loaded-2ipp)
 - [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
 <!-- BLOG-POST-LIST:END -->
