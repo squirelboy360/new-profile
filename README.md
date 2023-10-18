@@ -17,6 +17,9 @@
 - [Using SharedPreferences in Flutter effortlessly [UPDATED]](https://dev.to/simonpham/using-sharedpreferences-in-flutter-effortlessly-3e29)
 <!-- BLOG-POST-LIST:END -->
 
+### 💬  What I'm currently doing 
+
+
 <!--START_SECTION:waka-->
 
 ```rust
