@@ -17,12 +17,11 @@ jobs:
           ### content
           SHOW_TITLE: false # optional
           BLOCKS: 🐾🦊 # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
+          TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: false # optional
-          SHOW_MASKED_TIME: false # optional
+          SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: ✨ Updated waka-readme graph with new metrics
