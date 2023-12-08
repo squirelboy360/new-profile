@@ -25,7 +25,7 @@ jobs:
           STOP_AT_OTHER: true # optional
           ### commit
           COMMIT_MESSAGE: ✨ Updated waka-readme graph with new metrics
-          COMMITTER_NAME: Simon Pham
-          COMMITTER_EMAIL: simonpham.dn@gmail.com
-          AUTHOR_NAME: Simon Pham
-          AUTHOR_EMAIL: simonpham.dn@gmail.com
+          COMMITTER_NAME: Tahiru Agbanwa
+          COMMITTER_EMAIL: squirelboy360@gmail.com
+          AUTHOR_NAME: Tahiru Agbanwa
+          AUTHOR_EMAIL: squirelboy360@gmail.com
