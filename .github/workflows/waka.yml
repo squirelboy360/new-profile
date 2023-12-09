@@ -10,13 +10,12 @@ jobs:
     name: Update Waka stats
     runs-on: ubuntu-latest
     steps:
-      - uses: squirelboy360/waka-readme@master
+      - uses: squirelboy360/squirelboy360@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: false # optional
-          BLOCKS: 🐾🦊 # optional
+          BLOCKS: 🐾🐿️ # optional
           TIME_RANGE: last_30_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
