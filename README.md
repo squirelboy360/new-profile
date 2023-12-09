@@ -61,6 +61,5 @@ Markdown                      58 mins         🐾🐾🐾🐾🐾🐾🐾🐾�
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="swift" width="40"/>
 
  I am currently fully submerged into flutter and nothing else any other tech shown above are just part of my tech stack but i don't use them as much as FLUTTER💙
-
-
+ 
 </div>
