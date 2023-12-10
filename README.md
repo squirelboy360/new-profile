@@ -60,6 +60,7 @@ Markdown                      58 mins         🐾🐾🐾🐾🐾🐾🐾🐾�
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="swift" width="40"/>
 
- I am currently fully submerged into flutter and nothing else any other tech shown above are just part of my tech stack but i don't use them as much as FLUTTER💙
+## What I Am Up To
+I am building a startup. With the aid of flutter, Firebase and AppWrite to help scale to users across the globe and across all devices 🚀🥂
  
 </div>
