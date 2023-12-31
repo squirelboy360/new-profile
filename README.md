@@ -24,8 +24,6 @@
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/10kiur.gif) ![Squirelboy360](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=squirelboy360) ![](https://raw.githubusercontent.com/squirelboy360/squirelboy360/master/assets/images/11kiur.gif)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squirelboy360&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
-
 ### 💬  What I'm currently doing 
 
 
