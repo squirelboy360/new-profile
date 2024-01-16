@@ -19,6 +19,8 @@
  <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
 </div>
 
+###  Mission 🚀
+# Code 100 startups till i become rich
 
 ### 💻 Coding stats
 
