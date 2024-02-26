@@ -20,7 +20,7 @@
 </div>
 
 ### Current Mission 🚀
-# Coding 100 startups till i become rich
+# Coding 100 startups
 
 ### 💻 Coding stats
 
