@@ -21,8 +21,7 @@
 
 ### Current Mission 🚀
 # Coding 100 startups
-👇
-https://www.sqrlware.com#apps
+👉 https://www.sqrlware.com#apps
 
 ### 💻 Coding stats
 
