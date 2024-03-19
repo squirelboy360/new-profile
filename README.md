@@ -20,7 +20,7 @@
 </div>
 
 ### Current Mission 🚀
-# Coding 100 startups
+# Coding 50 startups
 👉 https://www.sqrlware.com#apps
 
 ### 💻 Coding stats
