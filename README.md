@@ -19,7 +19,7 @@
  <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Current Mission 🚀
+### Current Projects 🚀
 # Coding 50 startups
 👉 https://www.sqrlware.com#apps
 
