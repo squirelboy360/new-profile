@@ -3,21 +3,7 @@
   Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- <div id="badges">
-  <a href="https://www.linkedin.com/in/tahiru-agbanwa-649b0b270/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCTzYzlFvBtvFePd1KwvKZ-Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/home">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
- <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
-</div>
+<img src="https://private-user-images.githubusercontent.com/83909388/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwODYzODAsIm5iZiI6MTcxMzA4NjA4MCwicGF0aCI6Ii84MzkwOTM4OC8zMTgzMDE4ODQtY2ZjOGU2Y2UtZGYzOS00OWI0LThjZTctNmY1NDBiOWJmMzRmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE0VDA5MTQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2MTBhODE5YWYwMTE0NWI3Zjg3YjAyYTk1OWIxNjNlNjMyODczOGZjYmU1MTg5ZjNmNGU0MThhOTI4ZjMxNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2rQ-6wbz_dxrIGRIbbdcaSySa_0fvRUIQMQCNot58XY"/>
 
 ### Current Projects 🚀
 # Coding 50 startups
