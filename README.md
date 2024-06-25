@@ -11,8 +11,6 @@
 
 ![](https://raw.githubusercontent.com/simonpham/simonpham/master/assets/images/10kiur.gif) ![Squirelboy360](https://github-readme-stats-obu2qdcs2.vercel.app/api?username=squirelboy360) ![](https://raw.githubusercontent.com/squirelboy360/squirelboy360/master/assets/images/11kiur.gif)
 
-### 💬  What I'm currently doing 
-
 
 <!--START_SECTION:waka-->
 
